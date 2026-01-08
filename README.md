@@ -1,5 +1,5 @@
 # Neural-Sources Spreading (NSS) model
-Repository contaning the notebooks and codes to reproduce the results presented in the paper: "Inference in Spreading Processes with Neural-Network Priors"
+Repository contaning the notebooks and codes to reproduce the results presented in the paper: "Inference in Spreading Processes with Neural-Network Priors" in https://arxiv.org/abs/2509.02073.
 
 <p align="center">
   <img src="./Figure1.png" width="828" height="540">
